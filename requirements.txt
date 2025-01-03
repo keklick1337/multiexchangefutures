@@ -1,5 +1,4 @@
 python-binance
 python-bitget
 python-okx
-aiohttp_socks
 pybit
