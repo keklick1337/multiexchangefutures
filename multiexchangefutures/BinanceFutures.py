@@ -1,7 +1,7 @@
 import math
 import typing as t
 from logging import Logger
-from .basefutures import BaseFuturesTrade
+from .base_futures_trade import BaseFuturesTrade
 from binance import Client
 
 class BinanceFuturesTrade(BaseFuturesTrade):
